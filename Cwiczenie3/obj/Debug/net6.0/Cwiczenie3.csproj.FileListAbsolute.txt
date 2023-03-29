@@ -1,0 +1,7 @@
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.csproj.AssemblyReference.cache
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.AssemblyInfoInputs.cache
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.AssemblyInfo.cs
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.csproj.CoreCompileInputs.cache
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\s23600\source\repos\Cwiczenie3\Cwiczenie3\obj\Debug\net6.0\Cwiczenie3.MvcApplicationPartsAssemblyInfo.cache
